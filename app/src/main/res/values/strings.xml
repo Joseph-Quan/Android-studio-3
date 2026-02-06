@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="login_title">ĐĂNG NHẬP</string>
+    <string name="register_title">ĐĂNG KÝ</string>
+    <string name="username_hint">Tên đăng nhập</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="confirm_password_hint">Xác nhận mật khẩu</string>
+    <string name="login_button">Đăng Nhập</string>
+    <string name="register_button">Đăng Ký</string>
+    <string name="no_account">Chưa có tài khoản? Đăng ký ngay</string>
+    <string name="already_have_account">Đã có tài khoản? Đăng nhập ngay</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="welcome_back">Chào mừng trở lại!</string>
+    <string name="create_account">Tạo tài khoản mới</string>
+</resources>
