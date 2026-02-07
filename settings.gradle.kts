@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "login"
 include(":app")
+include(":screenshorts")
